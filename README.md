@@ -6,7 +6,7 @@ A comprehensive meta-skill that teaches Claude how to create high-quality, teste
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code](https://img.shields.io/badge/Claude-Code-blue.svg)](https://code.claude.com)
-[![Made with ](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/kayeeeey)
+[![Made with ](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/matkumatmat)
 
 ---
 
@@ -153,7 +153,7 @@ k-write-skill/
 
 ```bash
 # Clone repository
-git clone https://github.com/kayeeeey/k-plugin-skills-claude-code.git
+git clone https://github.com/matkumatmat/k-plugin-skills-claude-code.git
 
 # Copy to Claude Code skills directory
 cp -r k-plugin-skills-claude-code/k-write-skill ~/.claude/skills/
@@ -524,14 +524,14 @@ Contributions welcome! This is an open framework designed to evolve.
 
 - **Email**: [mamattewahyu@gmail.com](mailto:mamattewahyu@gmail.com)
 - **Instagram**: [@kayeeeey](https://www.instagram.com/kayeeeey/)
-- **GitHub**: [@kayeeeey](https://github.com/kayeeeey)
+- **GitHub**: [@kayeeeey](https://github.com/matkumatmat)
 
-**Repository**: [k-plugin-skills-claude-code](https://github.com/kayeeeey/k-plugin-skills-claude-code)
+**Repository**: [k-plugin-skills-claude-code](https://github.com/matkumatmat/k-plugin-skills-claude-code)
 
 ### Feedback & Support
 
-- **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/kayeeeey/k-plugin-skills-claude-code/issues)
-- **Discussions**: Share your experience, ask questions via [GitHub Discussions](https://github.com/kayeeeey/k-plugin-skills-claude-code/discussions)
+- **Issues**: Report bugs or request features via [GitHub Issues](https://github.com/matkumatmat/k-plugin-skills-claude-code/issues)
+- **Discussions**: Share your experience, ask questions via [GitHub Discussions](https://github.com/matkumatmat/k-plugin-skills-claude-code/discussions)
 - **Email**: For private inquiries or collaboration
 
 ---
